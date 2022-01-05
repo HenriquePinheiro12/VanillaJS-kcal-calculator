@@ -1,4 +1,4 @@
-# getkCal
+# Vanilla JavaScript kCal Calculator
 
 - Vanilla JS kcal calculator inspired by [maateussilva/getkcal](https://github.com/maateusilva/getkcal)
 - Forms manipulation with Vanilla JavaScript
