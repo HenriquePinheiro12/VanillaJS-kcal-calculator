@@ -2,8 +2,7 @@
 
 - Vanilla JS kcal calculator inspired by [maateussilva/getkcal](https://github.com/maateusilva/getkcal)
 - Forms manipulation with Vanilla JavaScript
-
-- [Live Site]()
+- [Live Site](https://henriquepinheiro12.github.io/VanillaJS-kcal-calculator/)
 
 ## Screenshots
 ![](assets/images/print.png)
